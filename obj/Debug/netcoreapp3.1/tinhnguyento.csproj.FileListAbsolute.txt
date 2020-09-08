@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\tinhnguyento\bin\Debug\netcoreapp3.1\tinhnguyento.exe
+C:\Users\Admin\source\repos\tinhnguyento\bin\Debug\netcoreapp3.1\tinhnguyento.deps.json
+C:\Users\Admin\source\repos\tinhnguyento\bin\Debug\netcoreapp3.1\tinhnguyento.runtimeconfig.json
+C:\Users\Admin\source\repos\tinhnguyento\bin\Debug\netcoreapp3.1\tinhnguyento.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\tinhnguyento\bin\Debug\netcoreapp3.1\tinhnguyento.dll
+C:\Users\Admin\source\repos\tinhnguyento\bin\Debug\netcoreapp3.1\tinhnguyento.pdb
+C:\Users\Admin\source\repos\tinhnguyento\obj\Debug\netcoreapp3.1\tinhnguyento.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\tinhnguyento\obj\Debug\netcoreapp3.1\tinhnguyento.AssemblyInfo.cs
+C:\Users\Admin\source\repos\tinhnguyento\obj\Debug\netcoreapp3.1\tinhnguyento.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tinhnguyento\obj\Debug\netcoreapp3.1\tinhnguyento.dll
+C:\Users\Admin\source\repos\tinhnguyento\obj\Debug\netcoreapp3.1\tinhnguyento.pdb
+C:\Users\Admin\source\repos\tinhnguyento\obj\Debug\netcoreapp3.1\tinhnguyento.genruntimeconfig.cache
+C:\Users\Admin\source\repos\tinhnguyento\obj\Debug\netcoreapp3.1\tinhnguyento.csprojAssemblyReference.cache
