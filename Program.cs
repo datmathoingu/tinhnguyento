@@ -1,28 +1,36 @@
-﻿using System;
+using System;
 
-namespace blablabla
+namespace NguyenTo
 {
     class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-
-            int number;
-            int n = 0;
-
-            Console.Write("Nhap mot so bat ky: ");
-            number = Convert.ToInt32(Console.ReadLine());
-
-            for (int i = 1; i <= number; i++)
-                if (number % i == 0)
-                    n++;
-
-            if (n == 2)
-                Console.WriteLine("{0} la so nguyen to.", number);
+            Console.OutputEncoding = Encoding.Unicode;
+            string strn;
+            int n;
+            Boolean kt;
+            Console.Write("Nhap n: ");
+            strn = Console.ReadLine();
+            n = int.Parse(strn);
+            kt = KTNguyenTo(n);
+            if (kt)
+                Console.WriteLine("{0} là số nguyên tố", n);
             else
-                Console.WriteLine("{0} khong phai la so nguyen to.", number);
-
-            Console.ReadKey();
+                Console.WriteLine("{0} không phải là số nguyên tố", n);
+            Console.ReadLine();
+        }
+        static Boolean KTNguyenTo(int n)
+        {
+            int i, m;
+            if (n < 0) n = -n;
+            if (n < 2) return false;
+            if (n == 2) return true;
+            m = n / 2;
+            for (i = 2; i <= m; i++)
+                if ((n % i) == 0)
+                    return false;
+            return true;
         }
     }
 }
