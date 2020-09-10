@@ -1,5 +1,5 @@
 using System;
-
+using System.Text;
 namespace NguyenTo
 {
     class Program
